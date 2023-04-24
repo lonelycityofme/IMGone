@@ -1,3 +1,3 @@
-# imgone
+# IMGone
 
-一个图床
+图床
